@@ -1,6 +1,6 @@
 # 📊 COVID-19 Time Series Analysis
 
-## 📌 Project Overview
+## 📌 Project Overview | SyntecxHub
 
 This project performs **time series analysis of COVID-19 data** to understand how the pandemic evolved over time in different countries.
 The analysis focuses on computing **daily cases, weekly cases, rolling averages**, detecting **peak infection periods**, and comparing trends across countries.
@@ -137,6 +137,6 @@ COVID19_TimeSeries_Analysis
 
 ## 👨‍💻 Author
 
-**Bhaskar Mandal**
+**Bhaskar Mandal | IIT KGP**
 
-Data Analyst Intern | IIT KGP
+*Data Analyst Intern @SyntecxHub*
